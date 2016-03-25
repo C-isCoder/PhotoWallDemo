@@ -1,7 +1,7 @@
 # PhotoWallDemo
 郭神博客，Android照片墙完整版，完美结合LruCache和DiskLruCache
 ##核心类：
-package com.example.iscoder.photowalldemo;
+<pre>package com.example.iscoder.photowalldemo;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
@@ -371,4 +371,4 @@ public class PhotoWallAdapter extends ArrayAdapter<String> {
         }
     };
 
-}
+}</pre>
